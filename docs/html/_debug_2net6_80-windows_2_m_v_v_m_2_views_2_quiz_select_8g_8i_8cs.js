@@ -1,0 +1,4 @@
+var _debug_2net6_80_windows_2_m_v_v_m_2_views_2_quiz_select_8g_8i_8cs =
+[
+    [ "NHSKioskApp.MVVM.Views.QuizSelect", "class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_views_1_1_quiz_select.html", "class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_views_1_1_quiz_select" ]
+];
